@@ -1,2 +1,3 @@
 # home
-i are a student.
+Hello! mi name is Gabriel i lives in Brazil.
+
